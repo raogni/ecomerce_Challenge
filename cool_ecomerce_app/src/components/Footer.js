@@ -31,8 +31,8 @@ function Footer() {
                         <Link to='/sign-up'>How it works</Link>
                         <Link to='/'>Testimonials</Link>
                         <Link to='/'>Careers</Link>
-                        <Link to='/'>Investors</Link>
-                        <Link to='/'>Terms of Service</Link>
+                        <Link to='/'>Our Partnes</Link>
+                        
                     </div>
                     <div class='footer-link-items'>
                         <h2>Contact Us</h2>
