@@ -1,0 +1,93 @@
+{
+"sneakers": {
+"type": "shoes",
+"image": "images\\81yxr-sedvl._ac_ul480_fmwebp_ql65_.webp",
+"brand": "moshabelle",
+"url": "https://www.amazon.com/sspa/click?ie=utf8&spc=mto3ndy5nzkwmtmwmjq4mtqyoje2njcxmzy0mza6c3bfc2vhcmnox3rozw1hdgljojiwmda5otiynzm0oti5odo6mto6&sp_csd=d2lkz2v0tmftzt1zcf9zzwfyy2hfdghlbwf0awm&url=%2fmosha-belle-walking-lightweight-sneakers%2fdp%2fb08pczspvs%2fref%3dsxin_15_pa_sp_search_thematic_sspa%3fcontent-id%3damzn1.sym.c9aa3712-4a5a-44b5-8447-f3b096b5b9f7%253aamzn1.sym.c9aa3712-4a5a-44b5-8447-f3b096b5b9f7%26crid%3d763mxnuqlg9a%26cv_ct_cx%3dshoes%2bfor%2bwomen%26keywords%3dshoes%2bfor%2bwomen%26pd_rd_i%3db08pczspvs%26pd_rd_r%3daba9e2b3-3a9e-4655-af66-f0a6e770cdfa%26pd_rd_w%3dmswuo%26pd_rd_wg%3djhjzn%26pf_rd_p%3dc9aa3712-4a5a-44b5-8447-f3b096b5b9f7%26pf_rd_r%3d8x38wefqqmzzvenyrv6a%26psc%3d1%26qid%3d1667136430%26qu%3deyjxc2mioiixmy40ocisinfzysi6ijezljqxiiwicxnwijoimtiunjaifq%253d%253d%26s%3dapparel%26sprefix%3dshoes%252cfashion%252c170%26sr%3d1-2-f06a3cb8-907c-4703-8a7e-33e464367a73-spons",
+"price": 45.99
+},
+"highwaisted": {
+"type": "jeans",
+"image": "images\\0860445380008new_01_001.webp",
+"brand": "pacsun",
+"url": "https://www.pacsun.com/pacsun/eco-black-cutout-high-waisted-bootcut-jeans-0860445380008.html?tilecgid=womens-bootcut-jeans",
+"price": 53.95
+},
+"cottondress": {
+"type": "dress",
+"image": "images\\201306550-1-black.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-luxe/asos-luxe-one-shoulder-cotton-dress-with-corset-detail-and-ruffles-in-black/prd/201306550?clr=black&colourwayid=201306553&cid=15362",
+"price": 86.0
+},
+"sandals": {
+"type": "shoes",
+"image": "images\\black.webp",
+"brand": "riverisland",
+"url": "https://www.asos.com/us/river-island/river-island-embossed-block-heeled-sandals-in-black/prd/204023183?clr=black&colourwayid=204023184&cid=6992",
+"price": 55.0
+},
+"calidreampop": {
+"type": "shoes",
+"image": "images\\whitepink.webp",
+"brand": "puma",
+"url": "https://www.asos.com/us/puma/puma-cali-dream-pop-sneakers-in-white-and-pink/prd/203562313?clr=white-pink&colourwayid=203562314&cid=6992",
+"price": 90.0
+},
+"halfandhalf": {
+"type": "jacket",
+"image": "images\\stone.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-design/asos-design-smart-half-and-half-oversized-coat-in-stone/prd/202243576?clr=stone&colourwayid=202243579&cid=16661",
+"price": 123.0
+},
+"airzoomvomero": {
+"type": "shoes",
+"image": "images\\offwhite.webp",
+"brand": "nike",
+"url": "https://www.asos.com/us/nike-running/nike-running-air-zoom-vomero-16-sneakers-in-off-white-and-red/prd/203637291?clr=off-white&colourwayid=203637303&cid=6992",
+"price": 150.0
+},
+"clubc": {
+"type": "shoes",
+"image": "images\\white.webp",
+"brand": "reebok",
+"url": "https://www.asos.com/us/reebok/reebok-club-c-double-geo-sneakers-in-white/prd/203851554?clr=white&colourwayid=203851555&cid=6992",
+"price": 95.0
+},
+"minidress": {
+"type": "dress",
+"image": "images\\202352209-1-pink.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-edition/asos-edition-sequin-cutwork-mini-dress-with-feather-hem-in-pink/prd/202352209?clr=pink&colourwayid=202352210&cid=15362",
+"price": 199.0
+},
+"momjeans": {
+"type": "jeans",
+"image": "images\\midblue.webp",
+"brand": "topshop",
+"url": "https://www.asos.com/us/topshop-hourglass/topshop-hourglass-oversized-mom-jeans-in-mid-blue/prd/202608569?clr=mid-blue&colourwayid=202608576&cid=30230",
+"price": 49.50
+},
+"airjordan": {
+"type": "shoes",
+"image": "images\\multi.webp",
+"brand": "nike",
+"url": "https://www.asos.com/us/jordan/nike-air-jordan-12-retro-sneakers-in-multi/prd/202978676?clr=multi&colourwayid=202978686&cid=6992",
+"price": 200.0
+},
+"mididress": {
+"type": "dress",
+"image": "images\\201527198-1-black.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-edition/asos-edition-waisted-broderie-midi-shirt-dress-with-puff-sleeve-in-black/prd/201527198?clr=black&colourwayid=201527199&cid=15362",
+"price": 199.0
+},
+"jacket": {
+"type": "jacket",
+"image": "images\\nbsprecycledtnfblack.webp",
+"brand": "northface",
+"url": "https://www.asos.com/us/the-north-face/the-north-face-1996-retro-nuptse-jacket-in-black/prd/24266646?clr=recycled-tnf-black&colourwayid=60552877&cid=16661",
+"price": 320.0
+}
+}

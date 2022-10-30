@@ -1,0 +1,16 @@
+{
+"halfandhalf": {
+"type": "jacket",
+"image": "images\\stone.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-design/asos-design-smart-half-and-half-oversized-coat-in-stone/prd/202243576?clr=stone&colourwayid=202243579&cid=16661",
+"price": 123.0
+},
+"jacket": {
+"type": "jacket",
+"image": "images\\nbsprecycledtnfblack.webp",
+"brand": "northface",
+"url": "https://www.asos.com/us/the-north-face/the-north-face-1996-retro-nuptse-jacket-in-black/prd/24266646?clr=recycled-tnf-black&colourwayid=60552877&cid=16661",
+"price": 320.0
+}
+}

@@ -1,0 +1,30 @@
+{
+"mididress": {
+"type": "dress",
+"image": "images\\201527198-1-black.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-edition/asos-edition-waisted-broderie-midi-shirt-dress-with-puff-sleeve-in-black/prd/201527198?clr=black&colourwayid=201527199&cid=15362",
+"price": 199.0
+},
+"mididress": {
+"type": "dress",
+"image": "images\\201561397-1-cream.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-design/asos-design-blouson-midi-dress-with-art-nouveau-embellishment/prd/201561397?clr=cream&colourwayid=201561398&cid=15362",
+"price": 208.0
+},
+"minidress": {
+"type": "dress",
+"image": "images\\202352209-1-pink.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-edition/asos-edition-sequin-cutwork-mini-dress-with-feather-hem-in-pink/prd/202352209?clr=pink&colourwayid=202352210&cid=15362",
+"price": 199.0
+},
+"cottondress": {
+"type": "dress",
+"image": "images\\201306550-1-black.webp",
+"brand": "asos",
+"url": "https://www.asos.com/us/asos-luxe/asos-luxe-one-shoulder-cotton-dress-with-corset-detail-and-ruffles-in-black/prd/201306550?clr=black&colourwayid=201306553&cid=15362",
+"price": 86.0
+}
+}

@@ -1,0 +1,16 @@
+{
+"airzoomvomero": {
+"type": "shoes",
+"image": "images\\offwhite.webp",
+"brand": "nike",
+"url": "https://www.asos.com/us/nike-running/nike-running-air-zoom-vomero-16-sneakers-in-off-white-and-red/prd/203637291?clr=off-white&colourwayid=203637303&cid=6992",
+"price": 150.0
+},
+"airjordan": {
+"type": "shoes",
+"image": "images\\multi.webp",
+"brand": "nike",
+"url": "https://www.asos.com/us/jordan/nike-air-jordan-12-retro-sneakers-in-multi/prd/202978676?clr=multi&colourwayid=202978686&cid=6992",
+"price": 200.0
+}
+}
